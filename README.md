@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**FelipeCle/FelipeCle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Computer Science student
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=FelipeCle&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&bg_color=00000000"/>
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCle&theme=codeSTACKr&bg_color=00000000&layout=compact&langs_count=10"/>
+</div>
+
+##
+
+<div>
+
+<a href="https://www.linkedin.com/in/felipe-monteiro-695863239" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=" blank"></a>
+
+</div>
+
+
